@@ -1,0 +1,6 @@
+Gesture	Action
+1 finger up	Move mouse
+2 fingers up	Left click
+3 fingers up	Right click
+Thumb up	Volume up
+Thumb down	Volume down
